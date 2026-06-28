@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-06-28T21:37:08.203769",
+  "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/&ved=2ahUKEwjYmPq6qKqVAxXCS2wGHZ8TOkoQFnoECA8QAQ&usg=AOvVaw006V-9rFzT7ASFull0ofJP",
+  "verdict": "\u2714  Appears Clean",
+  "heuristic": {
+    "score": 0,
+    "risk_level": "LOW",
+    "flags": []
+  },
+  "virustotal": {
+    "available": false
+  }
+}

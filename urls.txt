@@ -1,0 +1,21 @@
+# urls.txt - Sample URL list for batch scanning
+# Lines starting with # are ignored
+# Usage: python3 scanner.py -f urls.txt
+
+# === Likely Phishing / Suspicious ===
+http://192.168.1.1/paypal-login
+http://paypal-secure.verify-account.ml/signin
+http://xn--pypal-4ve.com/
+https://bit.ly/3xPhishMe
+http://secure-banking.login-verify.tk/account?update=1
+http://amazon-customer.service-update.xyz/password-reset
+
+# === Borderline / To Check ===
+http://login.microsoftonline.evil.com/auth
+http://google.com.secure.login.verify.site/password
+
+# === Likely Clean ===
+https://github.com
+https://www.python.org/downloads/
+https://google.com
+https://en.wikipedia.org/wiki/Phishing
