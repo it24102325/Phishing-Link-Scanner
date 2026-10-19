@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "v1.0",
+  "released_at": "2026-06-08",
+  "summary": {
+    "title": " Phishing-Link-Scanner",
+    "owner": "Muditha Bimsara K P",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "Muditha",
+    "threatTop": 0
+  }
+}
